@@ -1,18 +1,14 @@
 ## Oldrado Junior 💻
 
-### Olá, bem-vindo ao meu perfil. 👋
-<br/>
-
-<div>
-<a href="mailto:oldradojunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-## Sobre mim
-
 - 📚 Graduando em Sistemas de Informação (Bacharelado).
 - 🔭 Trabalho como desenvolvedor back-end pela [Wx3 e-commerce](https://www.wx3.com.br/).
 - 🌱 Estou aprendendo sobre [Swoole](https://openswoole.com/) e os frameworks [Laravel](https://laravel.com/) e [Lumen](https://lumen.laravel.com/).
+- 🔜 Quero me aprimorar no front-end e aprender algumas tecnologias relacionadas.
+
+<div>
+<a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="mailto:oldradojunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Ferramentas e Tecnologias 🧰
 <br/>
@@ -29,7 +25,7 @@
 
 <div>
 <a href="https://github.com/oldrado-jr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldrado-jr&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldrado-jr&layout=compact&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oldrado-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
