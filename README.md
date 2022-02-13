@@ -1,9 +1,8 @@
 ## Oldrado Junior 💻
 
 - 📚 Graduando em Sistemas de Informação (Bacharelado).
-- 🔭 Trabalho como desenvolvedor back-end pela [Wx3 e-commerce](https://www.wx3.com.br/).
+- 🔭 Trabalho como desenvolvedor back-end.
 - 🌱 Estou aprendendo sobre [Swoole](https://openswoole.com/) e os frameworks [Laravel](https://laravel.com/) e [Lumen](https://lumen.laravel.com/).
-- 🔜 Quero me aprimorar no front-end e aprender algumas tecnologias relacionadas.
 
 <div>
 <a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
