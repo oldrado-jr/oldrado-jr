@@ -1,15 +1,15 @@
 ## Oldrado Junior 💻
 
-- 📚 Graduando em Sistemas de Informação (Bacharelado).
-- 🔭 Trabalho como desenvolvedor back-end.
-- 🌱 Estou aprendendo sobre [Swoole](https://openswoole.com/) e os frameworks [Laravel](https://laravel.com/) e [Lumen](https://lumen.laravel.com/).
+- 📚 Graduating in Information Systems (Bachelor).
+- 🔭 Work as a back-end developer.
+- 🌱 I'm currently learning [Laravel](https://laravel.com/), [Lumen](https://lumen.laravel.com/) and a bit of [TypeScript](https://www.typescriptlang.org/), too.
 
 <div>
 <a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <a href="mailto:oldradojunior@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
-## Ferramentas e Tecnologias 🧰
+## Technologies & Tools 🧰
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></code>
@@ -27,7 +27,7 @@
 <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 -->
 
-## Estatísticas GitHub 📊
+## GitHub Stats 📊
 
 <div>
 <a href="https://github.com/oldrado-jr">
