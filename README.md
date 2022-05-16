@@ -1,6 +1,6 @@
 ## Oldrado Junior 💻
 
-- 📚 Graduating in Information Systems (Bachelor).
+- 📚 Undergraduate of B. Sc. in Information Systems.
 - 🔭 Work as a back-end developer.
 - 🌱 I'm currently learning [Laravel](https://laravel.com/) and a bit of [TypeScript](https://www.typescriptlang.org/), too.
 
