@@ -1,6 +1,6 @@
 ## Oldrado Junior 💻
 
-- 📚 Undergraduate of B. Sc. in Information Systems.
+- 📚 Undergraduate - B. Sc. in Information Systems.
 - 🔭 Work as a back-end developer.
 - 🌱 I'm currently learning [Laravel](https://laravel.com/) and a bit of [TypeScript](https://www.typescriptlang.org/), too.
 
@@ -14,6 +14,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /></code>
