@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning [Laravel](https://laravel.com/) and a bit of [TypeScript](https://www.typescriptlang.org/), too.
 
 <div>
-<a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<!-- <a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   -->
 <a href="mailto:oldradojunior@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
