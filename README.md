@@ -2,11 +2,18 @@
 
 - 📚 Undergraduate - B. Sc. in Information Systems.
 - 🔭 Work as a back-end developer.
-- 🌱 I'm currently learning [Laravel](https://laravel.com/) and a bit of [TypeScript](https://www.typescriptlang.org/), too.
+- 🌱 I'm currently learning a bit of front-end development.
 
 <div>
-<!-- <a href="https://www.linkedin.com/in/oldrado-junior" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   -->
-<a href="mailto:oldradojunior@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<!-- <a href="https://www.linkedin.com/in/oldrado-junior" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>  -->
+<a href="https://instagram.com/oldradojunior" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:oldradojunior@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </div>
 
 ## Technologies & Tools 🧰
