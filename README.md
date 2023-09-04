@@ -5,9 +5,9 @@
 - 🌱 I'm currently learning a bit of front-end development.
 
 <div>
-<!-- <a href="https://www.linkedin.com/in/oldrado-junior" target="_blank">
+<a href="https://www.linkedin.com/in/oldrado-junior" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>  -->
+</a>
 <a href="https://instagram.com/oldradojunior" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
