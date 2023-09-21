@@ -1,7 +1,7 @@
 ## Oldrado Junior 💻
 
 - 📚 Undergraduate - B. Sc. in Information Systems.
-- 🔭 Work as a back-end developer.
+<!-- - 🔭 Work as a back-end developer. -->
 - 🌱 I'm currently learning a bit of front-end development.
 
 <div>
