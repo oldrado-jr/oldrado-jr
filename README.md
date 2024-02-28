@@ -1,6 +1,6 @@
 ## Olá, meu nome é Oldrado Junior!
 
-Sou um desenvolvedor web com experiência na área de e-commerce e graduando em Sistemas de Informação pelo Cefet/RJ. Durante minha experiência profissional, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais, sendo PHP a principal linguagem no desenvolvimento. Atualmente, estou #OpenToWork, aprimorando conhecimentos no desenvolvimento de frontend enquanto busco recolocação no mercado de trabalho.
+Sou um desenvolvedor com mais de 4 anos de experiência na área de e-commerce e graduando em Sistemas de Informação pelo Cefet/RJ. Durante minha experiência profissional, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais, sendo PHP a principal linguagem no desenvolvimento. Atualmente, estou #OpenToWork, aprimorando conhecimentos no desenvolvimento de frontend enquanto busco recolocação no mercado de trabalho.
 
 ## 🚀 Minhas Skills
 
