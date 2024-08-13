@@ -1,6 +1,6 @@
 ## Olá, meu nome é Oldrado Junior!
 
-Sou um desenvolvedor com mais de 4 anos de experiência e graduando em Sistemas de Informação pelo Cefet/RJ. Durante minha experiência profissional, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais, sendo PHP a principal linguagem no desenvolvimento.
+Sou um desenvolvedor com mais de 5 anos de experiência e graduando em Sistemas de Informação pelo Cefet/RJ. Durante minha experiência profissional, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais. Atualmente trabalho com manutenção e novas funcionalidades para sistemas de automação contábil.
 
 ## Tecnologias
 
