@@ -1,6 +1,6 @@
 ## Olá, meu nome é Oldrado Junior!
 
-Sou um desenvolvedor full stack (backend  & frontend) com mais de 5 anos de experiência. Durante minha experiência profissional, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais. Atualmente trabalho com manutenção e novas funcionalidades para sistemas de automação contábil.
+Sou um desenvolvedor full stack, com maior foco em backend. Durante os mais de 5 anos de experiência, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais. Atualmente trabalho com manutenção e novas funcionalidades para sistemas de automação contábil.
 
 ## Tecnologias
 
