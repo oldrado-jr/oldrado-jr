@@ -1,8 +1,12 @@
-## Olá, meu nome é Oldrado Junior!
+## Hey there, and welcome! 👋
 
-Sou um desenvolvedor full stack, com maior foco em backend. Durante os mais de 5 anos de experiência, contribuí realizando melhorias e criando soluções eficientes para lojas virtuais. Atualmente trabalho com manutenção e novas funcionalidades para sistemas de automação contábil.
+I'm Oldrado Junior, a full stack developer (backend & frontend) with over 5+ years of experience.
 
-## Tecnologias
+I've contributed by making enhancements and creating efficient solutions for e-commerce virtual stores and I'm currently helping to build new features for accounting automation softwares.
+
+Besides that, I love drinking some coffee ☕, watch soccer games ⚽ and listen to rock music 🤘.
+
+## Tech stack
 
 ### Frontend
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML" /></code>
@@ -21,7 +25,7 @@ Sou um desenvolvedor full stack, com maior foco em backend. Durante os mais de 5
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50" alt="Express" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" /></code>
 
-### Banco de Dados
+### DB
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" /></code>
