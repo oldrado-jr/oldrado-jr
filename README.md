@@ -33,6 +33,7 @@ Besides that, I love drinking some coffee ☕, watch soccer games ⚽ and listen
 ### DevOps
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="Docker" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /></code>
 
 ## GitHub Stats
 
