@@ -1,6 +1,6 @@
 ## Olá, bem-vindo! 👋
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/oldrado-jr/oldrado-jr/blob/main/README.en.md)
 
 Sou Oldrado Junior, um desenvolvedor full stack (backend & frontend) com mais de 5 anos de experiência
 
