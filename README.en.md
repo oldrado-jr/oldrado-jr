@@ -1,5 +1,7 @@
 ## Hey there, and welcome! 👋
 
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+
 I'm Oldrado Junior, a full stack developer (backend & frontend) with over 5+ years of experience.
 
 I've contributed by making enhancements and creating efficient solutions for e-commerce virtual stores and I'm currently helping to build new features for accounting automation softwares.
