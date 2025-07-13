@@ -2,7 +2,7 @@
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/oldrado-jr/oldrado-jr/blob/main/README.en.md)
 
-Sou Oldrado Junior, um desenvolvedor full stack (backend & frontend) com mais de 5 anos de experiência
+Sou Oldrado Junior, um desenvolvedor full stack (backend & frontend) com mais de 6 anos de experiência.
 
 Contrubuí com melhorias e criação de soluções eficientes para lojas virtuais de e-commerce. Atualmente estou ajudando a constuir novas funcionalidades para sistemas de automação contábil.
 
