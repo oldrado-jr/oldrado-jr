@@ -2,11 +2,9 @@
 
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/oldrado-jr)
 
-I'm Oldrado Junior, a full stack developer (backend & frontend) with over 6+ years of experience.
+I'm Oldrado Junior, a full stack developer with over 6+ years of experience.
 
 I've contributed by making enhancements and creating efficient solutions for e-commerce virtual stores and I'm currently helping to build new features for accounting automation softwares.
-
-Besides that, I love drinking some coffee ☕, watch soccer games ⚽ and listen to rock music 🤘.
 
 ## Tech stack
 
