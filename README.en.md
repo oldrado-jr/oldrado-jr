@@ -4,7 +4,7 @@
 
 I'm Oldrado Junior, a full stack developer with over 6+ years of experience.
 
-I've contributed by making enhancements and creating efficient solutions for e-commerce virtual stores and I'm currently helping to build new features for accounting automation softwares.
+I've contributed by making enhancements and creating efficient solutions for e-commerce virtual stores and I'm currently working with accounting automation softwares development.
 
 ## Tech stack
 
@@ -24,6 +24,7 @@ I've contributed by making enhancements and creating efficient solutions for e-c
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="50" alt="Express" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" /></code>
 
 ### DB
@@ -35,6 +36,7 @@ I've contributed by making enhancements and creating efficient solutions for e-c
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="Docker" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="RabbitMQ" /></code>
 
 ## GitHub Stats
 
