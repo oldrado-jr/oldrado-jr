@@ -37,7 +37,3 @@ I've contributed by making enhancements and creating efficient solutions for e-c
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="50" alt="RabbitMQ" /></code>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oldrado-jr&theme=dracula"/>
